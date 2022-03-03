@@ -23,7 +23,7 @@
   "sourceMap": "61:81:0:-;;;88:50;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;61:81;8:9:-1;5:2;;;30:1;27;20:12;5:2;61:81:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;;:::o;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;:::o;:::-;;;;;;;",
   "deployedSourceMap": "61:81:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;61:81:0;;;;;;;;;;;;;;;;;;;88:50;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23:1:-1;8:100;33:3;30:1;27:10;8:100;;;99:1;94:3;90:11;84:18;80:1;75:3;71:11;64:39;52:2;49:1;45:10;40:15;;8:100;;;12:14;88:50:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::o",
   "source": "//SPDX-License-Identifier: MIT\r\npragma solidity >= 0.5.0;\r\n\r\ncontract CottonSwap {\r\n    string public name = \"CottonSwap Instant Exchange\";\r\n}",
-  "sourcePath": "C:\\Users\\davic\\cottom-swap\\src\\contracts\\CottonSwap.sol",
+  "sourcePath": "C:\\Users\\davic\\cotton-swap\\src\\contracts\\CottonSwap.sol",
   "ast": {
     "absolutePath": "project:/src/contracts/CottonSwap.sol",
     "exportedSymbols": {
@@ -209,12 +209,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x41e90B3801063F57298B434bDc2da2Ef78031aC0",
-      "transactionHash": "0x546218c872f922e50e6fa2db4ab6202675c69fc5edbff2584eea3eec12e0d682"
+      "address": "0xbC3D9f486f029cd3555D80a93f987572c7A5Cd54",
+      "transactionHash": "0x062ed667870e415a254a9118b66fd3763df6013b369f37ad4d05b8bb6b6b55a6"
     }
   },
   "schemaVersion": "3.4.5",
-  "updatedAt": "2022-03-02T18:14:40.505Z",
+  "updatedAt": "2022-03-03T21:57:24.558Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
